@@ -41,7 +41,7 @@
   	</dependency>
   	<dependency>
   		<groupId>javax.servlet.jsp.jstl</groupId>
-  		<artifactId>javaz.servlet.jsp.jstl-api</artifactId>
+  		<artifactId>javax.servlet.jsp.jstl-api</artifactId>
   		<version>1.2.1</version>
   	</dependency>
   </dependencies>
